@@ -1,0 +1,94 @@
+
+@spring(path="/ui")
+
+@Theme("valo")
+
+class ReservationUI extends UI
+{
+
+@Autowired 
+
+
+private Repository
+
+
+
+@Override
+
+protected void init(
+
+
+
+
+
+
+JAXB view Marshller class -->cluster Marshller
+
+rowMapper -> mapRow class 
+
+ accesing  third party --> rest Template
+
+
+hibernate template -->true
+
+hibernate template =hibernate context as same work.
+
+gerCurrentSession();
+
+dependecy injections
+
+1.setter 2.constructor
+
+3.factory 4.user method
+
+
+dao part must maintain transaction part this layer
+
+list of map --> query()
+
+getJdbcTemplate() -->get the jdbc template in hibernate
+
+@Request Mapping --> publish the rest service
+
+all frameworks come which architecture --> mvc2
+
+@PathLocal internal using data in spring
+
+which annotations rest endpoiny {}
+
+converting object work into data --> marshling like spring mvc procees
+
+
+how to enable transactions in spring --> annotation-config 
+
+
+exceptions handling in spring jdbc is easy better to in normal jdbc
+
+in @Repository dao exceptions  are handling 
+
+
+persistence exception post processor is exceptions transfer between layers
+
+JpaTemplate --> jpa repository 
+
+
+@Persistemce 
+
+
+
+abstraction part of which transaction -->platform tranasctionmanger
+
+    how to open the transaction -->session.getTransaction()
+				   session.beginTransaction()
+
+
+genkins 
+
+username:venkat
+pwd:venkat
+
+github
+
+username :VenkateswarareddyS
+
+password:Change@2017
